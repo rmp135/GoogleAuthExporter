@@ -1,0 +1,1 @@
+Much of this code was adapted from [krissrex/google-authenticator-exporter](https://github.com/krissrex/google-authenticator-exporter)
