@@ -72,7 +72,7 @@ async function decodeQRCodeFiles(event: Event) {
 
 <template>
   <div id="hide-print"> 
-    <div>No information is uploaded to any server, this is entirely offline. the images will be shown on mousover, or during printing.</div>
+    <div>No information is uploaded to any server, this is entirely offline. The images will be shown on mousover, or during printing.</div>
     <div>Select your images below.</div>
     <input type="file" alt="QR Code" @change="decodeQRCodeFiles" multiple accept="image/*" />
     <span v-if="generatedCodes.length > 0">
