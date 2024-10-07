@@ -5,6 +5,8 @@
 
 A small web app for converting the Google Authenticator export QR codes into generic 2FA import QR codes.
 
+https://rmp135.github.io/GoogleAuthExporter/
+
 ## How to Use
 
 1. In Google Authenticator, click the menu -> Transfer accounts -> Export accounts. 
